@@ -1,0 +1,1 @@
+This project is an assignment to practise my acquired HTML knowledge by creating a basic website. It will consist of the index pg and have a few links to a few recipies. The focus is on HTMl not web design esthetics at this point.
